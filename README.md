@@ -20,7 +20,7 @@ Para el análisis de estos datasets se han aplicado técnicas de preprocesado de
 
 ## Software y bibliotecas empleadas
 
-- Python 3.x
+- Python 3.11.5
 - scikit-learn
 - pandas, numpy
 - matplotlib, seaborn
