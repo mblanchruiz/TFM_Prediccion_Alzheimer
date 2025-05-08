@@ -15,7 +15,7 @@ Para el análisis de estos datasets se han aplicado técnicas de preprocesado de
 - `Dataset_Factores_Riesgo/` — Jupyter Notebooks con los análisis realizados para el Dataset Factores de Riesgo.
 - `Dataset_Biomarcadores/` — Jupyter Notebooks con los análisis realizados para el Dataset Biomarcadores.
 - `Figuras/` — Gráficos generados durante el análisis que se incluyen en la memoria del TFM.
-- `Documentos del TFM/` — Memoria y presentación del TFM.
+- `Documentos_TFM/` — Memoria y presentación del TFM.
 - `README.md` — Este archivo.
 
 ## Software y bibliotecas empleadas
